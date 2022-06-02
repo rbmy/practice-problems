@@ -1,2 +1,5 @@
 # practice-problems
-archive of practice problems from various places
+An archive of practice problems from various places.
+
+LeetCode
+  - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
