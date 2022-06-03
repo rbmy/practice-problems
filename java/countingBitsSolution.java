@@ -1,4 +1,4 @@
-class Solution {
+class countingBitsSolution {
     public int[] countBits(int n) {
         if(n == 0){
             int[] results = new int[1];
