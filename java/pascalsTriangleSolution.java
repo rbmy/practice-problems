@@ -1,4 +1,4 @@
-class Solution {
+class pascalsTriangleSolution {
     public List<List<Integer>> generate(int numRows) {
         int[][] pascalTriangle = new int[numRows][numRows];
         
